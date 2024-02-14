@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c1d7408-cb9f-4aed-9ea2-c854c940f723" name="Changes" comment="" />
+    <list default="true" id="1c1d7408-cb9f-4aed-9ea2-c854c940f723" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "mybranch",
+    "git-widget-placeholder": "mergebranch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/82106/Desktop/MyAlgorithmStudy",
     "node.js.detected.package.eslint": "true",
@@ -44,6 +47,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +78,7 @@
       <workItem from="1707904782304" duration="2990000" />
       <workItem from="1707912135394" duration="261000" />
       <workItem from="1707914208568" duration="2274000" />
+      <workItem from="1707916580328" duration="539000" />
     </task>
     <servers />
   </component>
