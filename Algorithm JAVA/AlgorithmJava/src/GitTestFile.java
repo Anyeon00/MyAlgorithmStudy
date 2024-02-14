@@ -1,2 +1,2 @@
-public class GitTestFile g{
+public class GitTestFile {
 }
